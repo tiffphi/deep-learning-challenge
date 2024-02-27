@@ -30,6 +30,9 @@ How many neurons, layers, and activation functions did you select for your neura
 Were you able to achieve the target model performance?
 No, I was only able to achieve in the low 70% range
 
+Starter_Code_1 -> Original Model
+Starter_Code_2 -> Modified to Optimize
+Starter_Code_3 -> Modified to Optimize
 What steps did you take in your attempts to increase model performance?
 I adjusted model types, number of neurons and epochs.
 
